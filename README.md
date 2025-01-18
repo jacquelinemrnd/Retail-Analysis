@@ -29,11 +29,12 @@ Le dataset utilisé est fictif, généré uniquement à des fins de démonstrati
 + Les revenus par catégorie de produits.
 + Le volume des ventes par ville.
 
-### 🖥️ Technologies utilisées
+### 🖥️ Outils et technologies utilisées
 
-+ **Python** 
-+ **Pandas** 
-+ **Matplotlib** & **Seaborn**
++ **Python** : Langage principal pour l'analyse.
++ **Jupyter Notebook** : Interface pour le développement interactif.
++ **Pandas** : Manipulation des données.
++ **Matplotlib** & **Seaborn** : Visualisation des données.
 
 ### 📈 Résultats
 
