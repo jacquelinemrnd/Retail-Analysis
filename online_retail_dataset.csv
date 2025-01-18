@@ -1,0 +1,21 @@
+OrderID,Product,Category,Price,Quantity,OrderDate,City,PaymentMethod
+ORD001,Laptop,Electronics,1000,1,2023-01-01,Paris,Credit Card
+ORD002,Smartphone,Electronics,700,2,2023-01-02,Lyon,PayPal
+ORD003,Tablet,Electronics,300,1,2023-01-03,Marseille,Credit Card
+ORD004,Headphones,Accessories,50,3,2023-01-04,Toulouse,Credit Card
+ORD005,Smartwatch,Electronics,200,2,2023-01-05,Bordeaux,PayPal
+ORD006,Keyboard,Accessories,30,5,2023-01-06,Lille,Credit Card
+ORD007,Mouse,Accessories,25,4,2023-01-07,Nice,PayPal
+ORD008,Monitor,Electronics,150,1,2023-01-08,Nantes,Credit Card
+ORD009,Charger,Accessories,20,6,2023-01-09,Strasbourg,Credit Card
+ORD010,Power Bank,Accessories,35,2,2023-01-10,Grenoble,PayPal
+ORD011,USB Cable,Accessories,10,8,2023-01-11,Dijon,Credit Card
+ORD012,Webcam,Accessories,40,1,2023-01-12,Montpellier,PayPal
+ORD013,Speakers,Accessories,60,2,2023-01-13,Rennes,Credit Card
+ORD014,Printer,Electronics,120,1,2023-01-14,Le Havre,Credit Card
+ORD015,Scanner,Electronics,150,1,2023-01-15,Reims,PayPal
+ORD016,Router,Electronics,100,2,2023-01-16,Saint-Étienne,Credit Card
+ORD017,External HDD,Electronics,90,3,2023-01-17,Clermont-Ferrand,PayPal
+ORD018,SSD,Electronics,150,2,2023-01-18,Tours,Credit Card
+ORD019,Gaming Console,Electronics,400,1,2023-01-19,Orléans,Credit Card
+ORD020,VR Headset,Electronics,350,1,2023-01-20,Metz,PayPal
